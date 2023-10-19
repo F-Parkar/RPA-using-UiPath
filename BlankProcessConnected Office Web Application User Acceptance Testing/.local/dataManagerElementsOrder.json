@@ -12,6 +12,9 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "gvDate&Sequence_14",
+        "Order&Sequence_5",
+        "Customer&Sequence_7",
         "ProjectPath&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [],
