@@ -1,4 +1,4 @@
-# CMPG-323-Project-4---37579193-
+# RPA using UiPath
 
 # Link for UI Path Publishment
 - https://www.uipath.com/
@@ -10,7 +10,7 @@
 - Users are required to engage in testing processes, including user acceptance testing (UAT) to validate expected outputs. 
   Robotic Process Automation (RPA) is suggested for automating repetitive tasks in scenarios like web application testing, boosting efficiency.
   
-#Robotic Process Automation (RPA)
+# Robotic Process Automation (RPA)
 - Technology that uses software robots or bots to automate repetitive, rule-based tasks and processes within an organization. 
   There are many reasons why RPA is widely adopted and its advantages include:
 - Efficiency and Productivity:
